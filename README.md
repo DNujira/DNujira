@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nujira 🐳🍉</h1>
+
 - 🌱 I’m currently learning __python javascript dart__
 
 - 📫 How to reach me **dreamnujira1@gmail.com**
