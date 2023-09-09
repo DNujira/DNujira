@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nujira 🐳🍉</h1>
-- 🌱 I’m currently learning **Python, javascript, nodejs, HTML5, dart**
+- 🌱 I’m currently learning <b>python, javascript, nodejs, HTML5, dart</b>
 
 - 📫 How to reach me **dreamnujira1@gmail.com**
 
